@@ -12,4 +12,4 @@ diversos recursos notáveis e aplicáveis na área de tecnologia.
 - Python
 - Infraestrutura
 
-[20220901_140130438_iOS](https://user-images.githubusercontent.com/112584856/188754535-f8f44623-161d-4a08-a41d-7bd5a8b2a55d.jpg)
+![20220901_140130438_iOS](https://user-images.githubusercontent.com/112584856/188754535-f8f44623-161d-4a08-a41d-7bd5a8b2a55d.jpg)
